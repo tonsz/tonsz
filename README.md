@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonsz
-- 👀 I’m interested in CTFs and writing
-- 🌱 I’m currently learning networking and pentest basics
-- 💞️ I’m looking to collaborate on CTFs (?) 
+- 👀 I’m interested in cyber security and some dev. 
+- 🌱 I’m currently learning webdev basics. 
+- 💞️ I’m looking to collaborate on anything my skills can contribute to...  
 - 
 <!---
 tonsz/tonsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
