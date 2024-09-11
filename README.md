@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonsz
-- 👀 I’m interested in everything Linux and Flutter 
-- 🌱 I’m currently learning Riverpod
-- 🔜 I’m currently an Intern and working on our capstone project / thesis right now.
+- 👀 I’m interested in everything that needs solving.
+- 🌱 I’m currently learning web dev.
+- 🔜 I’m currently a Jr. CMS dev. 
 - 💞 This 2024, my goal is to build at least 1 pet project :)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tonsz&theme=tokyonight)](https://git.io/streak-stats)
