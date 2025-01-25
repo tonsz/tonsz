@@ -11,4 +11,4 @@ tonsz/tonsz is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-[Email](mailto:tmestrera@gmail.com) | [Digital Notebook](tonsz.bearblog.dev)
+💌 [Email](mailto:tmestrera@gmail.com) | ✍️ [Digital Notebook](https://tonsz.bearblog.dev) | 🕹️ [Play something](https://tonsz.github.io/jeoparrdy/)
